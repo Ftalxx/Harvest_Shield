@@ -3,6 +3,8 @@
 Excel - https://docs.google.com/spreadsheets/d/1jG9Ooyk85XmRKZAfdxQcVZN0qqJJ87aiVZlO_a9lVWM/edit?usp=sharing
 <br>
 Docs - https://docs.google.com/document/d/1omqKgqSKHfIiNaFizdsiBps7kVs2kmAjcsoQlLxf9f4/edit?usp=sharing
+<br>
+Powerpoint (Ask for Access) - https://ucf-my.sharepoint.com/:p:/r/personal/ve135862_ucf_edu/Documents/Disease-Pest-Identification-Prevention.pptx?d=we4207137524342239334fe990db33bf4&csf=1&web=1&e=bZoMvF
 
 Presentation Hex Codes 
 <br>
