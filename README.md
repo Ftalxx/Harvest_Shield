@@ -16,5 +16,5 @@ Logo Hex Codes and Fonts
 <br>
 Business Name / Slogan - 21272D <br>
 Icon - EA5141 <br>
-Foreground Elements - F9F6ED <br>
+Foreground / Background Elements - f7f2e4 <br>
 Fonts - Hanken Grotesk (Primary) Halant (Secondary) <br>
