@@ -5,7 +5,7 @@ Excel - https://docs.google.com/spreadsheets/d/1jG9Ooyk85XmRKZAfdxQcVZN0qqJJ87ai
 Docs - https://docs.google.com/document/d/1omqKgqSKHfIiNaFizdsiBps7kVs2kmAjcsoQlLxf9f4/edit?usp=sharing
 <br>
 Powerpoint (Contact Veronica S. for Access) - https://ucf-my.sharepoint.com/:p:/r/personal/ve135862_ucf_edu/Documents/Disease-Pest-Identification-Prevention.pptx?d=we4207137524342239334fe990db33bf4&csf=1&web=1&e=bZoMvF <br>
-Presentation Dialogue (Contact Veronica S. for Access) - https://ucf-my.sharepoint.com/:w:/r/personal/ve135862_ucf_edu/Documents/Document.docx?d=w0c6fb85c835245c6b062d099eb1ddaf6&csf=1&web=1&e=29SaUj <br>
+Presentation Dialogue - https://docs.google.com/document/d/1Ls-S1EUsF6LwcEjhOH-AN1UqRjpDstoFMPRQj9CjY9I/edit?usp=sharing <br>
 Colab CNN - https://colab.research.google.com/github/Tonic4to/Disease-Identification-And-prevention/blob/main/Pest_%2B_Disease_Model_.ipynb <br>
 
 Presentation Hex Codes 
