@@ -7,6 +7,7 @@ Docs - https://docs.google.com/document/d/1omqKgqSKHfIiNaFizdsiBps7kVs2kmAjcsoQl
 Powerpoint (Contact Veronica S. for Access) - https://ucf-my.sharepoint.com/:p:/r/personal/ve135862_ucf_edu/Documents/Disease-Pest-Identification-Prevention.pptx?d=we4207137524342239334fe990db33bf4&csf=1&web=1&e=bZoMvF <br>
 Presentation Dialogue - https://docs.google.com/document/d/1Ls-S1EUsF6LwcEjhOH-AN1UqRjpDstoFMPRQj9CjY9I/edit?usp=sharing <br>
 Colab CNN - https://colab.research.google.com/github/Tonic4to/Disease-Identification-And-prevention/blob/main/Pest_%2B_Disease_Model_.ipynb <br>
+Crop Identification Demo - https://drive.google.com/file/d/1ssh2SbweH1Tq8I23PqxQAnYP4LPErq2X/view?usp=sharing <br>
 
 Presentation Hex Codes 
 <br>
