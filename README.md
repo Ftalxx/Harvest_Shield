@@ -9,6 +9,8 @@ Presentation Dialogue - https://docs.google.com/document/d/1Ls-S1EUsF6LwcEjhOH-A
 Colab CNN - https://colab.research.google.com/github/Tonic4to/Disease-Identification-And-prevention/blob/main/Pest_%2B_Disease_Model_.ipynb <br>
 Crop Identification Demo - https://drive.google.com/file/d/1ssh2SbweH1Tq8I23PqxQAnYP4LPErq2X/view?usp=sharing <br>
 
+DataSets: https://www.kaggle.com/datasets/marquis03/plants-classification <br>
+
 Presentation Hex Codes 
 <br>
 Beige - f7f2e4 <br>
