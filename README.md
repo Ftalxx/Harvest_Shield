@@ -50,8 +50,9 @@ Our application aims to revolutionize agriculture by providing an advanced solut
 - **[Project Documentation](https://docs.google.com/document/d/1omqKgqSKHfIiNaFizdsiBps7kVs2kmAjcsoQlLxf9f4/edit?usp=sharing)**: Comprehensive project overview and technical specifications.
 - **[PowerPoint Presentation](https://ucf-my.sharepoint.com/:p:/r/personal/ve135862_ucf_edu/Documents/Disease-Pest-Identification-Prevention.pptx?d=we4207137524342239334fe990db33bf4&csf=1&web=1&e=bZoMvF)** (Contact Veronica for Access): Visual presentation of the project.
 - **[Presentation Dialogue](https://docs.google.com/document/d/1Ls-S1EUsF6LwcEjhOH-AN1UqRjpDstoFMPRQj9CjY9I/edit?usp=sharing)**: Script for the presentation.
-- **[Crop Identification Demo](https://drive.google.com/file/d/1ssh2SbweH1Tq8I23PqxQAnYP4LPErq2X/view?usp=sharing)**: Demonstration video showcasing crop identification capabilities.
-  
+- **[Crop Identification Demo Video](https://drive.google.com/file/d/1ssh2SbweH1Tq8I23PqxQAnYP4LPErq2X/view?usp=sharing)**: Demonstration video showcasing crop identification capabilities.
+- **[Mediation Model Demo Video](  https://drive.google.com/file/d/1zDhk_2SVUxAYkohXcGScSHrCbGEo8kGN/view?usp=sharing)**: Demonstration video showcasing tinyBERT classification on Mediation solutions.
+
 </details>
 
 <details>
