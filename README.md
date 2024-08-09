@@ -73,8 +73,8 @@ Our application aims to revolutionize agriculture by providing an advanced solut
   - **Secondary**: Halant
 
 </details>
-</details>
 
+</details>
 <summary>Credits</summary>
 
 - **[Kaggle Datasets](https://www.kaggle.com/datasets/marquis03/plants-classification)**: We used this dataset as the primary source of training data for our machine learning models, enabling accurate classification of various plant species.
