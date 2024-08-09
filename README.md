@@ -14,15 +14,13 @@ Our application aims to revolutionize agriculture by providing an advanced solut
 
 - **CNN Model to Recognize Pests**: Our Convolutional Neural Network (CNN) model is specifically trained to recognize various pests, providing accurate identification and classification.
 
-- **Remediation and Prevention**: Provides practical advice and solutions based on the prediction model and risk analysis, including recommendations for partner solutions such as pesticides tailored to your crops' needs.
+- **Remediation and Prevention**: LLM model that provides practical advice and solutions based on the prediction model and risk analysis, including recommendations for partner solutions such as pesticides tailored to your crops' needs.
 
 - **Dataset Development**: We scraped data from Integrated Pest Management (IPM) URLs and Wikipedia, compiling a dataset with up to 160,000 rows of functional text information to enhance the accuracy of our predictions.
 
 - **Geographical Interface with Mapping API**: The app documents land, pest, disease, and crop data, providing a visual representation through an easy-to-use geographical interface. This helps users track and manage their agricultural portfolio effectively.
 
 - **User-Friendly Interface**: Designed with ease of access in mind, our interface integrates geographical data seamlessly to provide an intuitive user experience.
-
-- **Data Scraping from Integrated Pest Management (IPM)**: The app scrapes data from IPM resources to provide up-to-date solutions to pest problems and efficiency ratings for various interventions.
 
 
 </details>
