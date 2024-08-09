@@ -79,7 +79,9 @@ Our application aims to revolutionize agriculture by providing an advanced solut
 
 - **[Kaggle Datasets](https://www.kaggle.com/datasets/marquis03/plants-classification)**: We used this dataset as the primary source of training data for our machine learning models, enabling accurate classification of various plant species.
 
-- **[IPM Data from IPM Centers](https://ipmdata.ipmcenters.org/)**: This resource provided critical data for developing our pest and disease identification models, contributing to the dataset with up to 160,000 rows of functional text information.
+- **[IPM Data from IPM Centers](https://ipmdata.ipmcenters.org/)**: This resource provided critical data for developing our mediation model, contributing to the dataset with up to 160,000 rows of functional text information.
+
+- **[Intel TinyBERT pretrained model](https://arxiv.org/abs/2111.09645})**: Pre-trained model used for mediation model
 
 </details>
 
