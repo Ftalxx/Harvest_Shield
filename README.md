@@ -73,6 +73,7 @@ Our application aims to revolutionize agriculture by providing an advanced solut
   - **Secondary**: Halant
 
 </details>
+</details>
 
 <summary>Credits</summary>
 
