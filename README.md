@@ -12,11 +12,11 @@ Our application aims to revolutionize agriculture by providing an advanced solut
 
 ### Team Members
 
-- **[Veronica Segovia](https://www.linkedin.com/in/veronica-segovia/)** 
-- **[Nicolas Vasilescu](https://www.linkedin.com/in/nicolas-vasilescu-215a091b6/)**
-- **[Mariya Mushtaq](https://www.linkedin.com/in/mariyamushtaq/)**
-- **[Mahitha Thippireddy](https://www.linkedin.com/in/mahitha-thippireddy-280619248/)**
-- **[Delight Nyanhete](https://www.linkedin.com/in/delight-nyanhete/)**
+- **[Veronica Segovia](https://www.linkedin.com/in/veronica-segovia/)**: Mediation Model
+- **[Nicolas Vasilescu](https://www.linkedin.com/in/nicolas-vasilescu-215a091b6/)**: Plant Classification Model
+- **[Mariya Mushtaq](https://www.linkedin.com/in/mariyamushtaq/)**: Pest Classification Model
+- **[Mahitha Thippireddy](https://www.linkedin.com/in/mahitha-thippireddy-280619248/)**: Application Framework
+- **[Delight Nyanhete](https://www.linkedin.com/in/delight-nyanhete/)**: Market Research
 
 ### Mentors
 
