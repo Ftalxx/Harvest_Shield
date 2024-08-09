@@ -8,6 +8,24 @@ Our application aims to revolutionize agriculture by providing an advanced solut
 </details>
 
 <details>
+<summary>Contributors</summary>
+
+### Team Members
+
+- **[Veronica Segovia](https://www.linkedin.com/in/veronica-segovia/)** 
+- **[Nicolas Vasilescu](https://www.linkedin.com/in/nicolas-vasilescu-215a091b6/)**
+- **[Mariya Mushtaq](https://www.linkedin.com/in/mariyamushtaq/)**
+- **[Mahitha Thippireddy](https://www.linkedin.com/in/mahitha-thippireddy-280619248/)**
+- **[Delight Nyanhete](https://www.linkedin.com/in/delight-nyanhete/)**
+
+### Mentors
+
+- **[Arezoo Bybordi](https://www.linkedin.com/in/arezoo-bybordi-7188a979/)**: Led the project and provided guidance throughout.
+- **[Jake Byford](https://www.linkedin.com/in/jake-byford/)**: Offered mentorship and strategic direction.
+
+</details>
+
+<details>
 <summary>Key Features</summary>
 
 - **Camera Identification (VGG16)**: Utilize your device's camera to capture images of crops, pests, and diseases. Our VGG16-based model accurately detects and classifies these issues.
@@ -33,8 +51,7 @@ Our application aims to revolutionize agriculture by providing an advanced solut
 - **[PowerPoint Presentation](https://ucf-my.sharepoint.com/:p:/r/personal/ve135862_ucf_edu/Documents/Disease-Pest-Identification-Prevention.pptx?d=we4207137524342239334fe990db33bf4&csf=1&web=1&e=bZoMvF)** (Contact Veronica S. for Access): Visual presentation of the project.
 - **[Presentation Dialogue](https://docs.google.com/document/d/1Ls-S1EUsF6LwcEjhOH-AN1UqRjpDstoFMPRQj9CjY9I/edit?usp=sharing)**: Script for the presentation.
 - **[Crop Identification Demo](https://drive.google.com/file/d/1ssh2SbweH1Tq8I23PqxQAnYP4LPErq2X/view?usp=sharing)**: Demonstration video showcasing crop identification capabilities.
-- **[Datasets](https://www.kaggle.com/datasets/marquis03/plants-classification)**: Source of training data for the ML models.
-
+  
 </details>
 
 <details>
@@ -56,3 +73,13 @@ Our application aims to revolutionize agriculture by providing an advanced solut
   - **Secondary**: Halant
 
 </details>
+
+<summary>Credits</summary>
+
+- **[Kaggle Datasets](https://www.kaggle.com/datasets/marquis03/plants-classification)**: We used this dataset as the primary source of training data for our machine learning models, enabling accurate classification of various plant species.
+
+- **[IPM Data from IPM Centers](https://ipmdata.ipmcenters.org/)**: This resource provided critical data for developing our pest and disease identification models, contributing to the dataset with up to 160,000 rows of functional text information.
+
+</details>
+
+
