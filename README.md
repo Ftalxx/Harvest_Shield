@@ -2,7 +2,7 @@
 
 <details>
 <summary>Overview</summary>
-
+<br>
 Our application aims to revolutionize agriculture by providing an advanced solution for predicting, classifying, and recommending remediation strategies for various crop diseases and pest infestations. This tool is designed to be an all-in-one platform that leverages machine learning, data scraping, and a user-friendly interface to assist farmers and agricultural experts in making informed decisions.
 
 </details>
